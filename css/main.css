@@ -152,6 +152,21 @@ footer {
   font-weight: bolder;
 }
 
+input[type="checkbox"]:checked + span::after {
+  content: '\2713';
+  width: 25px;
+  height: 25px;
+  /*padding: 4px; */
+  border-radius: 50%;
+  background-color: green;
+  border: 4px solid #20b320;
+  position: absolute;
+  top: 227px;
+  font-size: 1.5em;
+  
+  animation: fadeIn 0.7s;
+  }
+
 .lightbox_close:hover { opacity: 0.5; color: red; }
 
 .lightbox article {
