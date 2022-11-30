@@ -171,26 +171,27 @@ footer {
 /* turn the lightbox on using the :target pseudo selector */
 .lightbox:target { display: block; }
 
-#lightBox{
-  background-image: url("../image/barney_LB-Bg.png");
+#lightbox{
+  background-image: url("../images/chrstiano.png");
+  
 
 }
 
-#lightBox2{
-  background-image: url("../image/barney_LB-Bg.png");
+#lightbox2{
+  background-image: url("../images/sergio-ramos.png");
 
 }
 
-#lightBox3{
-  background-image: url("../image/Robin_LB-Bg.png");
+#lightbox3{
+  background-image: url("../images/japan-player.png");
 }
 
-#lightBox4{
-  background-image: url("../image/Marshall_LB-Bg.png");
+#lightbox4{
+  background-image: url("../images/hassan.png");
 }
 
-#lightBox5{
-  background-image: url("../image/lily_LB-Bg.png");
+#lightbox5{
+  background-image: url("../images/doneil-.png");
 }
 
 .lightbox:target{
@@ -198,5 +199,5 @@ footer {
 }
 
 #lightbox6{
-  background-image: url("../image/wife_LB-Bg.png");
+  background-image: url("../images/mbappe.png");
 }
