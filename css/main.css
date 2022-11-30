@@ -170,3 +170,33 @@ footer {
 
 /* turn the lightbox on using the :target pseudo selector */
 .lightbox:target { display: block; }
+
+#lightBox{
+  background-image: url("../image/barney_LB-Bg.png");
+
+}
+
+#lightBox2{
+  background-image: url("../image/barney_LB-Bg.png");
+
+}
+
+#lightBox3{
+  background-image: url("../image/Robin_LB-Bg.png");
+}
+
+#lightBox4{
+  background-image: url("../image/Marshall_LB-Bg.png");
+}
+
+#lightBox5{
+  background-image: url("../image/lily_LB-Bg.png");
+}
+
+.lightbox:target{
+  display: block;
+}
+
+#lightbox6{
+  background-image: url("../image/wife_LB-Bg.png");
+}
