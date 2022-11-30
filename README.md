@@ -14,7 +14,7 @@ mohammed Zarandah
 
 ## Credits
 
-Mohammed - research, img and coding
+Mohammed - research, img and coding           
 Jeet - coding 
 
 ## License
